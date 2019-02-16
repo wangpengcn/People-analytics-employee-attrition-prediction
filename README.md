@@ -1,5 +1,5 @@
 # People analytics - Employee attrition prediction
-![image](./figure/hr_attrition.jpg)
+![image](./figur/hr_attrition.jpg)
 Build following predicative models using the [fictional IBM data set](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) which contains 1470 employee attrition records. 
 - Decision Tree
 - Random Forest
